@@ -1,8 +1,4 @@
-Hard Luck
-
-    By Banjo Paterson (Andrew Barton)
-
-
+#Hard Luck
 
 I left the course, and by my side
 There walked a ruined tout,
@@ -39,5 +35,6 @@ The tout, oh! where is he?
 Ask where the empty boilers are
 Beside the Circular Quay.
 
+Banjo Paterson (Andrew Barton)
 
 URL: http://www.public-domain-poetry.com/banjo-paterson-andrew-barton/hard-luck-4894
